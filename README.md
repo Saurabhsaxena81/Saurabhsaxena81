@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+ 
   <a href="https://twitter.com/saurabhsax23072" target="_blank">
     <img src="https://img.shields.io/twitter/follow/saurabhsax23072?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
@@ -28,14 +29,29 @@
 
 ## 📬 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/saurabhsax23072" target="_blank">
+
+<!--   <a href="https://twitter.com/saurabhsax23072" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/saurabhsaxena83540" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> -->
+
+<p align="center">
+  <a href="mailto:saurabhsaxena81272@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/saurabhsax23072" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/twitter/follow/saurabhsax23072?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/saurabhsaxena81" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/followers/saurabhsaxena81?logo=github&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/saurabhsaxena83540/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
+
 
 ---
 
