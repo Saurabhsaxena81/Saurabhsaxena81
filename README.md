@@ -13,6 +13,9 @@
   <a href="https://github.com/saurabhsaxena81" target="_blank">
     <img src="https://img.shields.io/github/followers/saurabhsaxena81?logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
+  <a>
+    ![Visitor Count](https://komarev.com/ghpvc/?username=Saurabhsaxena81&label=Repository%20Views&color=blue&style=flat)
+  </a>
 </p>
 
 ---
