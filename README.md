@@ -17,7 +17,7 @@
 </p>
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Saurabhsaxena81&label=Repository%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Saurabhsaxena81&label=Profile%20Views&color=blue&style=flat)
 
 ---
 ---
